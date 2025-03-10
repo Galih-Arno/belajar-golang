@@ -91,3 +91,10 @@ Kamu **berhasil bikin program Go pertama**.
 | `go mod init`            | Setup project                                       |
 | Tulis file `helloworld.go` | Isi kode program "Hello World"                     |
 | `go run helloworld.go`  | Jalankan program                                    |
+---
+
+## Resource belajar Go
+
+* [W3School](https://www.w3schools.com/go/index.php)
+* [Roadmapsh](https://roadmap.sh/golang)
+* [Dokumentasi Go](https://go.dev/doc/tutorial/)
